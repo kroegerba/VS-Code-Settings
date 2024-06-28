@@ -1,5 +1,12 @@
 {
     "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": true,
-    "editor.renderWhitespace": "all"
+    "editor.renderWhitespace": "all",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "telemetry.telemetryLevel": "off",
+    "omnisharp.organizeImportsOnFormat": true,
+    "dotnet.automaticallyCreateSolutionInWorkspace": false,
+    "dotnetAcquisitionExtension.enableTelemetry": false
 }
